@@ -1,0 +1,15 @@
+form {	margin:auto;
+    text-align:center;
+    background-color: white;
+    padding:18px;
+    font-size:16px;
+    border: 1px solid black;
+    width: 800px;}
+.image-item {padding: 24px; 
+    background-color:f2f6f6;
+    }
+.input-item {padding: 24px;
+    font-size:18px;}
+    
+h1 { color:ff0000
+    }
